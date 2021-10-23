@@ -14,7 +14,7 @@ class EnlaceController
          $admin = ["iniciar-sesion"];
 
         //Vistas de client
-        $client = ["acceso-clientes", "campanas", "casos-de-exito", "demo-gratuita", "nosotros", "contacto", "novedad-01","novedad-02","novedad-03","novedad-04","novedad-05","novedad-06", "novedades", "soluciones"];
+        $client = ["index-old", "acceso-clientes", "campanas", "casos-de-exito", "demo-gratuita", "nosotros", "contacto", "novedad-01","novedad-02","novedad-03","novedad-04","novedad-05","novedad-06", "novedades", "soluciones"];
 
         $allowedPages = ["admin" => $admin, "client" => $client];
 

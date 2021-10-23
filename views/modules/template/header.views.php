@@ -7,22 +7,22 @@
 
     <!-- Common MetaTags -->
     <meta charset="UTF-8">
-    <meta name="title" content="<?php echo $site_title; ?>" />
-    <meta name="description" content="<?php echo $site_description; ?>" />
-    <meta http-equiv="Content-Language" content="<?php echo $siteLANG; ?>" />
+    <meta name="title" content="Muni Digital" />
+    <meta name="description" content="Website de la Muni Digital" />
+    <meta http-equiv="Content-Language" content="es" />
     <meta name="resource-type" content="document" />
     <meta name="distribution" content="global" />
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="Expires" content="-1" />
     <meta http-equiv="refresh" content="9600" />
-    <meta name="copyright" content='<?php echo $site_copyright; ?>' />
-    <meta name="author" content="<?php echo $site_name; ?>">
+    <meta name="copyright" content='2021 Muni Digital' />
+    <meta name="author" content="Muni Digital">
     <meta name="distribution" content="Global" />
     <meta name="classification" content=" " />
-    <meta name="generator" content="<?php echo $site_name; ?>" />
-    <meta name="subject" content="<?php echo $site_name; ?>" />
-    <meta name="abstract" content="<?php echo $site_abstract; ?>" />
-    <meta name="keywords" content="<?php echo $site_keyWords; ?>" />
+    <meta name="generator" content="Muni Digital" />
+    <meta name="subject" content="Muni Digital" />
+    <meta name="abstract" content="Website de la Muni Digital" />
+    <meta name="keywords" content="muni digital, open government" />
     <meta name="googlebot" content="noodp" />
     <meta name="robots" content="index,follow">
     <meta name="revisit-after" content="7 days" />
@@ -40,36 +40,36 @@
 
     <!-- Facebook Special -->
     <meta property="og:type" content="profile" />
-    <meta property="og:site_name" content="<?php echo $site_name; ?>" />
-    <meta property="og:url" content="<?php echo $actual_link; ?>" />
-    <meta property="og:title" content="<?php echo $site_title; ?>" />
-    <meta property="og:description" content="<?php echo $site_description; ?>" />
-    <meta property="og:image" content="<?php echo $root_link; ?>/logoFB.png" />
+    <meta property="og:site_name" content="Muni Digital" />
+    <meta property="og:url" content="www.munidigital.com" />
+    <meta property="og:title" content="Muni Digital" />
+    <meta property="og:description" content="Website de la Muni Digital" />
+    <meta property="og:image" content="www.munidigital.com/logoFB.png" />
 
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="<?php echo $site_RS_tw; ?>">
-    <meta name="twitter:title" content="<?php echo $site_title; ?>">
-    <meta name="twitter:description" content="<?php echo $site_description; ?>">
-    <meta name="twitter:creator" content="<?php echo $site_RS_tw; ?>">
-    <meta name="twitter:image:src" content="<?php echo $root_link; ?>/logoFB.png">
-    <meta name="twitter:domain" content="<?php echo $root_link; ?>/">
+    <meta name="twitter:site" content="www.twitter.com">
+    <meta name="twitter:title" content="Muni Digital en Twitter">
+    <meta name="twitter:description" content="Website de la Muni Digital">
+    <meta name="twitter:creator" content="www.twitter.com">
+    <meta name="twitter:image:src" content="www.munidigital.com/logoFB.png">
+    <meta name="twitter:domain" content="www.munidigital.com">
     <!-- Boostrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
     <!-- MY OWN CAROUSEL -->
-    <link rel="stylesheet" href="<?php echo $root_link; ?>/assets/owl-carousel/dist/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="views/assets/owl-carousel/dist/assets/owl.carousel.min.css">
     <!-- MY OWN CAROUSEL -->
-    <link rel="stylesheet" href="<?php echo $root_link; ?>/assets/owl-carousel/dist/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="views/assets/owl-carousel/dist/assets/owl.theme.default.min.css">
 
     <!-- Esto viene de inc_headFiles.php -->
-    
-    <link rel="icon" type="image/png" href="<?php echo $root_link ?>/assets/images/favicon.png">
+
+    <link rel="icon" type="image/png" href="views/assets/images/favicon.png">
     <!-- Fonts Awesome -->
-    <link rel="stylesheet" href="<?php echo $root_link ?>/assets/fonts/font-awesome/css/all.min.css">
+    <link rel="stylesheet" href="views/assets/fonts/font-awesome/css/all.min.css">
     <!-- Mi Estilo CSS -->
-    <link rel="stylesheet" href="<?php echo $root_link ?>/assets/css/style.css">
+    <link rel="stylesheet" href="views/assets/css/style.css">
     <!-- Overwrite -->
-    <link rel="stylesheet" href="<?php echo $root_link ?>/assets/css/overwrite.css">
+    <link rel="stylesheet" href="views/assets/css/overwrite.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -81,8 +81,8 @@
 <header class="d-none d-lg-inline">
     <nav class="navbar navbar-expand-lg navbar-light py-4">
         <div class="container">
-            <a class="navbar-brand" href="<?php echo $root_link ?>">
-                <img src="<?php echo $root_link ?>/assets/images/logo-header.svg" style="width: 200px;" alt="">
+            <a class="navbar-brand" href="munidigital.com">
+                <img src="views/assets/images/logo-header.svg" style="width: 200px;" alt="">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <!-- <span class="navbar-toggler-icon"></span> -->

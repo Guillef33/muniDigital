@@ -12,7 +12,7 @@ $siteTestVersion = "/munidigital";
 //$root_link = 'https://' . $_SERVER['HTTP_HOST'] . $siteTestVersion;
 
 //Constantes de rutas
-define("PROJECT_PATH", "/munidigital");
+define("PROJECT_PATH", "munidigital/munidigital");
 define("SITE_PATH", $_SERVER['DOCUMENT_ROOT'] . PROJECT_PATH);
 
     // PHP.INI Viene de ese archivo
