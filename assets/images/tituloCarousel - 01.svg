@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="724.323" height="141.794" viewBox="0 0 724.323 141.794">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        filter: url(#Trazado_8707);
+      }
+
+      .cls-4 {
+        filter: url(#Trazado_8706);
+      }
+
+      .cls-5 {
+        filter: url(#Trazado_8705);
+      }
+
+      .cls-6 {
+        filter: url(#Rectángulo_273);
+      }
+
+      .cls-7 {
+        filter: url(#Trazado_8704);
+      }
+
+      .cls-8 {
+        filter: url(#Rectángulo_272);
+      }
+
+      .cls-9 {
+        filter: url(#Trazado_8703);
+      }
+
+      .cls-10 {
+        filter: url(#Rectángulo_271);
+      }
+
+      .cls-11 {
+        filter: url(#Trazado_8702);
+      }
+
+      .cls-12 {
+        filter: url(#Trazado_8701);
+      }
+
+      .cls-13 {
+        filter: url(#Trazado_8700);
+      }
+    </style>
+    <filter id="Trazado_8700" x="0" y="0.503" width="131.974" height="139.62" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#061819"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_8701" x="104.365" y="0.503" width="108.452" height="141.291" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-color="#061819"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_8702" x="185.211" y="0.503" width="111.763" height="139.62" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-3"/>
+      <feFlood flood-color="#061819"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_271" x="270.107" y="0.502" width="61.906" height="139.62" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-4"/>
+      <feFlood flood-color="#061819"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_8703" x="306.479" y="1.315" width="103.446" height="136.34" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-5"/>
+      <feFlood flood-color="#061819"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_272" x="381.428" y="1.322" width="53.946" height="136.327" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-6"/>
+      <feFlood flood-color="#061819"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_8704" x="406.747" y="0" width="102.283" height="138.961" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-7"/>
+      <feFlood flood-color="#061819"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_273" x="481.578" y="1.322" width="53.946" height="136.327" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-8"/>
+      <feFlood flood-color="#061819"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_8705" x="501.788" y="1.315" width="103.1" height="136.328" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-9"/>
+      <feFlood flood-color="#061819"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_8706" x="558.716" y="1.315" width="108.671" height="136.327" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-10"/>
+      <feFlood flood-color="#061819"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_8707" x="635.056" y="1.315" width="89.268" height="136.328" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-11"/>
+      <feFlood flood-color="#061819"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="tituloCarousel_-_01" data-name="tituloCarousel - 01" class="cls-1" transform="translate(22.5 22.5)">
+    <g class="cls-13" transform="matrix(1, 0, 0, 1, -22.5, -22.5)">
+      <path id="Trazado_8700-2" data-name="Trazado 8700" class="cls-2" d="M2453.342,709.511v-94.62h28.788l14.7,69.019,14.7-69.019h28.785v94.62h-16.9v-73.19h-1.838l-16.293,69.015h-16.906l-16.29-69.015h-1.838v73.19Z" transform="translate(-2430.84 -591.89)"/>
+    </g>
+    <g class="cls-12" transform="matrix(1, 0, 0, 1, -22.5, -22.5)">
+      <path id="Trazado_8701-2" data-name="Trazado 8701" class="cls-2" d="M2533.633,677.928q0,16.559,14.825,16.557t14.822-16.557V614.891h16.9v62.617q0,17.4-7.9,25.534t-23.827,8.14q-15.927,0-23.826-8.14t-7.9-25.534V614.891h16.9Z" transform="translate(-2389.86 -591.89)"/>
+    </g>
+    <g class="cls-11" transform="matrix(1, 0, 0, 1, -22.5, -22.5)">
+      <path id="Trazado_8702-2" data-name="Trazado 8702" class="cls-2" d="M2565.833,709.511v-94.62h28.542l20.089,77.925h1.225V614.891H2632.6v94.62h-27.81l-20.821-77.921h-1.225v77.921Z" transform="translate(-2358.12 -591.89)"/>
+    </g>
+    <g class="cls-10" transform="matrix(1, 0, 0, 1, -22.5, -22.5)">
+      <rect id="Rectángulo_271-2" data-name="Rectángulo 271" class="cls-2" width="16.906" height="94.62" transform="translate(292.61 23)"/>
+    </g>
+    <g class="cls-9" transform="matrix(1, 0, 0, 1, -22.5, -22.5)">
+      <path id="Trazado_8703-2" data-name="Trazado 8703" class="cls-2" d="M2668.182,706.66h-28.7V615.333h28.7q19.635,0,26.03,17.686,3.717,10.166,3.716,26.657,0,34.45-15.106,43.421a28.326,28.326,0,0,1-14.64,3.563Zm20.567-46.984q0-26.256-10.342-32.728a18.791,18.791,0,0,0-10.225-2.64h-19.75v73.377h19.75q20.569,0,20.567-38.009Z" transform="translate(-2310.5 -591.52)"/>
+    </g>
+    <g class="cls-8" transform="matrix(1, 0, 0, 1, -22.5, -22.5)">
+      <rect id="Rectángulo_272-2" data-name="Rectángulo 272" class="cls-2" width="8.946" height="91.327" transform="translate(403.93 23.82)"/>
+    </g>
+    <g class="cls-7" transform="matrix(1, 0, 0, 1, -22.5, -22.5)">
+      <path id="Trazado_8704-2" data-name="Trazado 8704" class="cls-2" d="M2735.471,669.649V660.54h22.191v44.872a125.09,125.09,0,0,1-26.141,3.167q-17.545,0-24.342-11.481t-6.8-35.434q0-23.951,6.8-35.5t24.108-11.546a101.2,101.2,0,0,1,22.425,2.637l3.95.791-.35,8.448a134.686,134.686,0,0,0-24.978-2.771q-13.362,0-18.008,8.777t-4.648,29.166q0,20.39,4.648,29.164t17.893,8.777a78.062,78.062,0,0,0,16.615-1.844V669.649Z" transform="translate(-2271.13 -592.12)"/>
+    </g>
+    <g class="cls-6" transform="matrix(1, 0, 0, 1, -22.5, -22.5)">
+      <rect id="Rectángulo_273-2" data-name="Rectángulo 273" class="cls-2" width="8.946" height="91.327" transform="translate(504.08 23.82)"/>
+    </g>
+    <g class="cls-5" transform="matrix(1, 0, 0, 1, -22.5, -22.5)">
+      <path id="Trazado_8705-2" data-name="Trazado 8705" class="cls-2" d="M2758.1,624.442v-9.109h58.1v9.109h-24.516v82.219h-8.829V624.442Z" transform="translate(-2233.81 -591.52)"/>
+    </g>
+    <g class="cls-4" transform="matrix(1, 0, 0, 1, -22.5, -22.5)">
+      <path id="Trazado_8706-2" data-name="Trazado 8706" class="cls-2" d="M2792.678,706.66l22.078-91.327h19.518l22.075,91.327h-8.829l-5.809-23.49h-34.39l-5.81,23.49Zm28.814-82.616-12.2,50.019h30.441l-12.2-50.019Z" transform="translate(-2211.46 -591.52)"/>
+    </g>
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, -22.5, -22.5)">
+      <path id="Trazado_8707-2" data-name="Trazado 8707" class="cls-2" d="M2883.306,706.661h-44.268V615.333h8.946v82.222h35.322Z" transform="translate(-2181.48 -591.52)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124" height="168" viewBox="0 0 124 168">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_266" data-name="Rectángulo 266" width="124" height="168" transform="translate(980 3688)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_66" data-name="Enmascarar grupo 66" transform="translate(-980 -3688)" clip-path="url(#clip-path)">
+    <g id="Grupo_5485" data-name="Grupo 5485" transform="translate(980 3665)">
+      <g id="Grupo_5482" data-name="Grupo 5482" transform="translate(0 24.186)">
+        <path id="Trazado_6290" data-name="Trazado 6290" d="M3013.131-772.884c-15.951-27.867-53.187-37.974-82.473-22.681a59.4,59.4,0,0,0-32.369,52.816c0,41.565,37.512,86.248,56.594,104.974a6.733,6.733,0,0,0,9.361.072c19.211-18.316,57.574-60.711,57.574-105.6C3021.818-753.322,3018.623-763.288,3013.131-772.884Z" transform="translate(-2898.289 802.694)" fill="#007473"/>
+      </g>
+      <text id="_3" data-name="3" transform="translate(36.278 0)" fill="#fff" font-size="95" font-family="Cairo-Black, Cairo" font-weight="800"><tspan x="0" y="124">3</tspan></text>
+    </g>
+  </g>
+</svg>

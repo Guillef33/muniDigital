@@ -1,0 +1,178 @@
+html,body{
+    overflow-x: hidden;
+}
+/*//////////////*/
+.burger div {
+    width: 25px;
+    height: 2px;
+    border-radius: 5px;
+    background-color: #0E7473;
+    margin-bottom: 6px;
+    transition: all 0.5s ease;
+}
+
+button:focus {
+    outline: none !important;
+} 
+ 
+button:focus-visible{
+    outline: none !important;
+} 
+
+.navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 0 0;
+}
+
+.navbar-toggler{
+    border-color: rgba(0,0,0,0) !important;
+}
+
+/* //////// */
+
+.owl_casosExito .owl-dots{
+    position: absolute;
+    bottom: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+/* 
+.owl-nav{
+    position: absolute;
+    bottom: 5%;
+    left: 50%;
+    transform: translate(-50%);
+} */
+
+
+.owl_casosExito .owl-prev{
+    position: absolute;
+    left: 15%;
+    bottom: 3%;
+    color: #fff !important;
+}
+
+.owl_casosExito .owl-prev span{
+    font-size: 32px;
+}
+
+.owl_casosExito .owl-next{
+    position: absolute;
+    right: 15%;
+    bottom: 3%;
+    color: #fff !important;
+}
+
+.owl_casosExito .owl-next span{
+    font-size: 32px;
+}
+
+.owl_casosExito .owl-prev:hover, .owl-next:hover{
+    background-color: transparent !important;
+} 
+
+
+/* /////////////////// /////////////////// /////////////////// /////////////////// */
+/* /////////////////// /////////////////// /////////////////// /////////////////// */
+/* /////////////////// /////////////////// /////////////////// /////////////////// */
+
+
+.owl-staff .owl-dots{
+    position: absolute;
+    bottom: -7%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+}
+
+.owl-staff .owl-prev{
+    position: absolute;
+    left: 5%;
+    bottom: -9%;
+    color: #E26824 !important;
+    z-index: 10;
+}
+
+.owl-staff .owl-prev span{
+    font-size: 32px;
+}
+
+.owl-staff .owl-next{
+    position: absolute;
+    right: 4%;
+    bottom: -9%;
+    color: #E26824 !important;
+    z-index: 10;
+}
+
+.owl-staff .owl-next span{
+    font-size: 32px;
+}
+
+.owl-staff .owl-prev:hover, .owl-next:hover{
+    background-color: transparent !important;
+} 
+
+.owl-staff .owl-dot span{
+    background: #E26824 !important;
+    opacity: .5;
+}
+
+.owl-staff .active span{
+    background: #E26824 !important;
+    opacity: 1;
+}
+
+.owl-staff .owl-dot.active{
+    position: relative;
+}
+.owl-staff .owl-dot.active::after{
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border:1px solid #E26824 !important;
+}
+
+@media screen and (min-width: 992px){
+    .owl-staff .owl-dots{
+        bottom: 8%;
+        left: 67%;
+    }
+    .owl-staff .owl-prev{
+        position: absolute;
+        left: 51%;
+        bottom: 6%;
+        color: #E26824 !important;
+    }
+    .owl-staff .owl-next{
+        position: absolute;
+        right: 16%;
+        bottom: 5%;
+        color: #E26824 !important;
+    }
+}
+
+/* /////////////////// /////////////////// /////////////////// /////////////////// */
+/* /////////////////// /////////////////// /////////////////// /////////////////// */
+/* /////////////////// /////////////////// /////////////////// /////////////////// */
+
+.owl-socios-aliados .owl-stage-outer .owl-stage{
+    display: flex;
+    align-items: center;
+}
+
+
+/* .owl-socios-aliados .owl-stage-outer .owl-stage .owl-item{
+    height: 100px;
+} */
+
+.owl-socios-aliados .owl-stage-outer .owl-stage .owl-item img{
+    max-width: 150px;
+    margin: auto;
+}

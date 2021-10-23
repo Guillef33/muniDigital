@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="749" height="272" viewBox="0 0 749 272">
+  <defs>
+    <filter id="transforma_la_manera_de_gobernar_tu_ciudad" x="0" y="0" width="749" height="272" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#182e26" flood-opacity="0.973"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="transforma_la_manera_de_gobernar_tu_ciudad-2" x="0" y="0" width="749" height="272" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-color="#182e26" flood-opacity="0.973"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_2411" data-name="Grupo 2411" transform="translate(-254 -461.79)">
+    <g transform="matrix(1, 0, 0, 1, 254, 461.79)" filter="url(#transforma_la_manera_de_gobernar_tu_ciudad)">
+      <text id="transforma_la_manera_de_gobernar_tu_ciudad-3" data-name="transforma la manera
+de gobernar tu ciudad" transform="translate(30 126)" fill="#fff" font-size="74" font-family="Cairo-SemiBold, Cairo" font-weight="600"><tspan x="0" y="0">transforma la manera</tspan><tspan x="0" y="74">de gobernar tu ciudad</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 254, 461.79)" filter="url(#transforma_la_manera_de_gobernar_tu_ciudad-2)">
+      <text id="transforma_la_manera_de_gobernar_tu_ciudad-4" data-name="transforma la manera
+de gobernar tu ciudad" transform="translate(30 126)" fill="#fff" font-size="74" font-family="Cairo-SemiBold, Cairo" font-weight="600" opacity="0.647"><tspan x="0" y="0">transforma la manera</tspan><tspan x="0" y="74">de gobernar tu ciudad</tspan></text>
+    </g>
+  </g>
+</svg>
