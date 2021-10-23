@@ -3,7 +3,7 @@
          <div class="row pb-4 pt-1 py-lg-2 align-items-center">
              <div class="col-6">
                  <figure class="mb-0" style="width: 50px;">
-                     <a href="<?php echo $root_link ?>"><img src="<?php echo $root_link ?>/assets/images/logo-footer.svg" class="w-100 d-none d-md-inline-block" alt=""></a>
+                     <a href=""><img src="views/assets/images/logo-footer.svg" class="w-100 d-none d-md-inline-block" alt=""></a>
                  </figure>
                  <ul class="disable_list d-flex justify-content-start">
                      <li class="position-relative d-inline-block d-lg-none">
@@ -31,7 +31,7 @@
                              </div>
                          </div>
                      </li>
-                     <li><a href="<?php echo $root_link ?>/contacto.php" class="disable_link text-white me-3 me-md-4 text-uppercase d-inline-block d-lg-none">Contactanos</a></li>
+                     <li><a href="/contacto.php" class="disable_link text-white me-3 me-md-4 text-uppercase d-inline-block d-lg-none">Contactanos</a></li>
                  </ul>
              </div>
              <div class="col-6">
@@ -61,7 +61,7 @@
                              </div>
                          </div>
                      </li>
-                     <li><a href="<?php echo $root_link ?>/contacto.php" class="disable_link text-white me-3 me-md-4 text-uppercase d-none d-lg-inline-block">Contáctanos</a></li>
+                     <li><a href="/contacto.php" class="disable_link text-white me-3 me-md-4 text-uppercase d-none d-lg-inline-block">Contáctanos</a></li>
                      <li><a href="https://linkedin.com/company/munidigital" target="_blank" class="disable_link text-white me-3 me-md-4"><i class="fab fa-linkedin-in"></i></a></li>
                      <li><a href="https://facebook.com/munidigital" target="_blank" class="disable_link text-white me-3 me-md-4"><i class="fab fa-facebook-f"></i></a></li>
                      <li><a href="https://instagram.com/muni.digital" target="_blank" class="disable_link text-white me-3 me-md-4"><i class="fab fa-instagram"></i></a></li>
