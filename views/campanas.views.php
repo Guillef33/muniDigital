@@ -1,4 +1,3 @@
-<body>
     <main>
         <section class="py-3 py-lg-5 campanias_title_bg">
             <div class="container">
@@ -15,7 +14,7 @@
                             </div>
 
                             <div class="col-8 m-auto m-lg-0 col-lg-6">
-                                <img src="<?php echo $root_link ?>/assets/images/campanas/logo-campana-100m.svg" class="w-100">
+                                <img src="assets/images/campanas/logo-campana-100m.svg" class="w-100">
                             </div>
                         </div>
                     </div>
@@ -23,9 +22,6 @@
             </div>
         </section>
 
-        <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-        <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-        <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
         <section class="bg_gray py-3 py-lg-5">
             <div class="container">
                 <div class="row">
@@ -41,7 +37,7 @@
                         <div class="row mt-4" style="row-gap: 15px;">
                             <div class="col-6 col-lg-3">
                                 <div class="frenteAccion_wrapper text-center py-3 py-lg-4 px-2 px-md-3 d-flex flex-column justify-content-center">
-                                    <img src="<?php echo $root_link ?>/assets/images/campanas/frente-accion-01.svg" alt="">
+                                    <img src="views/assets/images/campanas/frente-accion-01.svg" alt="">
                                     <div class="frenteAccion_txt mt-3 mt-lg-5 text-white">
                                         <h5>Censado y mapeo</h5>
                                         <p class="mb-0">Carga de información, registro fotográfico y localización de los ejemplares.</p>
@@ -50,7 +46,7 @@
                             </div>
                             <div class="col-6 col-lg-3">
                                 <div class="frenteAccion_wrapper text-center py-3 py-lg-4 px-2 px-md-3 d-flex flex-column justify-content-center">
-                                    <img src="<?php echo $root_link ?>/assets/images/campanas/frente-accion-03.svg" alt="">
+                                    <img src="views/assets/images/campanas/frente-accion-03.svg" alt="">
                                     <div class="frenteAccion_txt mt-3 mt-lg-5 text-white">
                                         <h5>Procesamiento e información</h5>
                                         <p class="mb-0">Organización y gestión de la información. Mapas e inventario forestal.</p>
@@ -59,7 +55,7 @@
                             </div>
                             <div class="col-6 col-lg-3">
                                 <div class="frenteAccion_wrapper text-center py-3 py-lg-4 px-2 px-md-3 d-flex flex-column justify-content-center">
-                                    <img src="<?php echo $root_link ?>/assets/images/campanas/frente-accion-02.svg" alt="">
+                                    <img src="views/assets/images/campanas/frente-accion-02.svg" alt="">
                                     <div class="frenteAccion_txt mt-3 mt-lg-5 text-white">
                                         <h5>Estrategias de intervención</h5>
                                         <p class="mb-0">Planes de acción, entrega de ejemplares y donaciones, campañas de reforestación.</p>
@@ -68,7 +64,7 @@
                             </div>
                             <div class="col-6 col-lg-3">
                                 <div class="frenteAccion_wrapper text-center py-3 py-lg-4 px-2 px-md-3 d-flex flex-column justify-content-center">
-                                    <img src="<?php echo $root_link ?>/assets/images/campanas/frente-accion-04.svg" alt="">
+                                    <img src="views/assets/images/campanas/frente-accion-04.svg" alt="">
                                     <div class="frenteAccion_txt mt-3 mt-lg-5 text-white">
                                         <h5>Recomendación Seguimiento, y cuidado</h5>
                                         <p class="mb-0">Banco de información: Características y estado del ejemplar, recomendaciones de cuidado y mantenimiento.</p>
@@ -103,7 +99,7 @@
                             <div class="col-lg-6 bg_green comoParticipar_wrapper">
                                 <div class="row align-items-center h-100">
                                     <div class="col-5 col-md-6 text-center">
-                                        <img src="<?php echo $root_link ?>/assets/images/campanas/municipios-y-organizaciones.svg" style="width: 70%;" alt="">
+                                        <img src="assets/images/campanas/municipios-y-organizaciones.svg" style="width: 70%;" alt="">
                                         <h4 class="text-white fw-bold mt-3">Municipios y organizaciones</h4>
                                     </div>
                                     <div class="col-7 col-md-6 text-center">
@@ -117,14 +113,14 @@
                             <div class="col-lg-6 bg_gray comoParticipar_wrapper">
                                 <div class="row align-items-center h-100">
                                     <div class="col-5 col-md-6 text-center">
-                                        <img src="<?php echo $root_link ?>/assets/images/campanas/ciudadanos.svg" style="width: 52%;" alt="">
+                                        <img src="assets/images/campanas/ciudadanos.svg" style="width: 52%;" alt="">
                                         <h4 class="text_green fw-bold mt-3">Ciudadanos</h4>
                                     </div>
                                     <div class="col-7 col-md-6 text-center">
                                         <p class="text_green">¡Descarga nuestra <b>App</b> <br class="d-none d-lg-inline-block"><b>PANDO</b> y empieza a participar!</p>
                                         <div class="d-flex">
-                                            <a href="https://apps.apple.com/co/app/pando-tree/id1471409387" target="_blank" class=""><img src="<?php echo $root_link ?>/assets/images/campanas/ios-market.svg" alt="" style=" width: 85%;"></a>
-                                            <a href="https://play.google.com/store/apps/details?id=com.munidigital.muniarbolglobal" target="_blank" class=""><img src="<?php echo $root_link ?>/assets/images/campanas/android-market.svg" alt="" style=" width: 85%;"></a>
+                                            <a href="https://apps.apple.com/co/app/pando-tree/id1471409387" target="_blank" class=""><img src="views/assets/images/campanas/ios-market.svg" alt="" style=" width: 85%;"></a>
+                                            <a href="https://play.google.com/store/apps/details?id=com.munidigital.muniarbolglobal" target="_blank" class=""><img src="views/assets/images/campanas/android-market.svg" alt="" style=" width: 85%;"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -134,7 +130,4 @@
                 </div>
             </div>
         </section>
-        <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-        <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-        <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
     </main>
